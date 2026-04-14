@@ -12,6 +12,11 @@ Arrays - DSA Practice
 - Palindrome Array
 - Maximum Subarray
 - Remove duplicate from Sorted Array(Leetcode 26)
+-  Reverse Array
+- Valid Palindrome (LeetCode 125)
+-  Move Zeroes (LeetCode 283)
+- Remove Duplicates from Sorted Array (LeetCode 26)
+- Two Sum II - Input Array Is Sorted (LeetCode 167)
 
 Concepts
 
@@ -19,5 +24,13 @@ Concepts
 - Min/Max tracking
 - Two pointer (intro)
 - Kadane Algorithm
+
+  Key Learnings
+
+- Use two pointers when array is sorted or when working from both ends  
+- Use slow-fast pointer for in-place operations  
+- Always move pointer strategically to reduce unnecessary checks  
+- Identify patterns instead of memorizing solutions  
+
 
 Language: Python
