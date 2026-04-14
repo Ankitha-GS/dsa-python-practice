@@ -11,6 +11,7 @@ Arrays - DSA Practice
 - Check Sorted
 - Palindrome Array
 - Maximum Subarray
+- Remove duplicate from Sorted Array(Leetcode 26)
 
 Concepts
 
