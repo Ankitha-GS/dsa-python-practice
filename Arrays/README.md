@@ -17,6 +17,8 @@ Arrays - DSA Practice
 -  Move Zeroes (LeetCode 283)
 - Remove Duplicates from Sorted Array (LeetCode 26)
 - Two Sum II - Input Array Is Sorted (LeetCode 167)
+- Container with most water(Leetcode 11)
+- Trapping Rain Water (LeetCode 42)
 
 Concepts
 
