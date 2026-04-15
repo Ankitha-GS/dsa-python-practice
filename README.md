@@ -1,6 +1,6 @@
 # DSA Practice in Python
 
-## bout
+## About
 This repository contains my structured practice of Data Structures and Algorithms using Python.  
 I am consistently solving problems to strengthen my problem-solving skills and prepare for technical interviews.
 
