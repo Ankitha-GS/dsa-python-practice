@@ -19,6 +19,9 @@ Arrays - DSA Practice
 - Two Sum II - Input Array Is Sorted (LeetCode 167)
 - Container with most water(Leetcode 11)
 - Trapping Rain Water (LeetCode 42)
+- Maximum Average Subarray I (LC 643)
+- Longest Substring Without Repeating Characters (LC 3)
+- Longest Repeating Character Replacement (LC 424)
 
 Concepts
 
