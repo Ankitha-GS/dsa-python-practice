@@ -3,7 +3,7 @@ Problem: Maximum Average Subarray I (LeetCode 643)
 Approach: Fixed Sliding Window
 Time Complexity: O(n)
 Space Complexity: O(1)
-
+Code:
 
 class Solution:
     def findMaxAverage(self, nums, k):
