@@ -22,7 +22,7 @@ Arrays - DSA Practice
 - Maximum Average Subarray I (LC 643)
 - Longest Substring Without Repeating Characters (LC 3)
 - Longest Repeating Character Replacement (LC 424)
-
+-Longest Consecutive Sequence(Leetcode 128)
 Concepts
 
 - Traversal
