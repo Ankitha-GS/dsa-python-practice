@@ -23,6 +23,7 @@ Arrays - DSA Practice
 - Longest Substring Without Repeating Characters (LC 3)
 - Longest Repeating Character Replacement (LC 424)
 -Longest Consecutive Sequence(Leetcode 128)
+-Subarray sum divisible by k(Leetcode 974)
 Concepts
 
 - Traversal
