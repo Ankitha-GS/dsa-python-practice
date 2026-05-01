@@ -24,6 +24,7 @@ Arrays - DSA Practice
 - Longest Repeating Character Replacement (LC 424)
 -Longest Consecutive Sequence(Leetcode 128)
 -Subarray sum divisible by k(Leetcode 974)
+-Best time to buy and sell stock(Leetcode 121)
 Concepts
 
 - Traversal
